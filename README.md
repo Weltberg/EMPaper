@@ -5,6 +5,11 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Methods-informational" alt="type"/>
 
+
+- Commonsense-Aware Prompting for Controllable Empathetic Dialogue Generation, 2023. [[paper]](https://arxiv.org/abs/2302.01441)
+- Response-act Guided Reinforced Dialogue Generation for Mental Health Counseling, 2023. [[paper]](https://arxiv.org/abs/2301.12729)
+- Curriculum-guided Abstractive Summarization for Mental Health Online Posts, 2023. [[paper]](Curriculum-guided Abstractive Summarization for Mental Health Online Posts)
+- Is GPT-3 a Psychopath? Evaluating Large Language Models from a Psychological Perspective, 2022. [[paper]](https://arxiv.org/abs/2212.10529)
 - `EMNLP22` Why Do You Feel This Way? Summarizing Triggers of Emotions in Social Media Posts, 2022. [[paper]](https://arxiv.org/abs/2210.12531) [[code]](https://github.com/honglizhan/CovidET)
 - `EMNLP22` CARE: Causality Reasoning for Empathetic Responses by Conditional Graph Generation, 2022. [[paper]](https://arxiv.org/abs/2211.00255) [[code]](https://github.com/wangjs9/CARE-master)
 - Affective feature knowledge interaction for empathetic conversation generation, 2022. [[paper]](https://www.tandfonline.com/doi/full/10.1080/09540091.2022.2134301)
